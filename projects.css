@@ -1,0 +1,43 @@
+header{
+  background-color:black;
+
+}
+ul{
+  float:right;
+}
+
+ul,a{
+
+  font-size:24px;
+  font-family: cursive;
+  color:white;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration: none;
+  font-size:28px;
+}
+#title{
+  font-family: cursive;
+  font-size: 50px;
+  color:purple;
+  box-shadow: 1px 1px 1px black;
+}
+#projectBoard{
+  margin:auto;
+  background-color:grey;
+  width:350px;
+  margin-top:25px;
+  box-shadow:3px 3px 3px black;
+}
+#projectBoard,p{
+  font-family: cursive;
+  font-size:15px;
+  color:white;
+
+
+}
+#projectBoard,a{
+border-top: 2px solid black;
+
+}
